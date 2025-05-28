@@ -7,4 +7,4 @@ Los detalles de la planificación de actividades y las tareas asignadas se encue
 
 [Perfil de cargo ayudante](https://planificacion-observatorios-2025.github.io/OCS-COES/perfil-ayudante.html)
 
-[Propuesta Conversatorios](https://planificacion-observatorios-2025.github.io/OCS-COES/conversatorios.html)
+[Propuesta Foros](https://ocscoes.github.io/planificacion-2025/conversatorios.html)
