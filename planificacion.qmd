@@ -103,3 +103,12 @@ El resto del presupuesto se compone principalmente de coffee breaks para las ins
 | **Total** |  | **\$13.410.000** |
 
 : Presupuesto OCS 2025 {#tbl-presupuesto}
+
+## Ejecución presupuesto al 10 de junio de 2025
+
+| Item | Detalle | Monto |
+|----|----|----|
+| Honorarios Asistente | Pago asistente meses abril, mayo y junio | \$2.310.000 |
+| Honorarios Practicante | Pago practicante mayo-septiembre | \$800.000 |
+| Presupuesto Ejectutado |  | \$3.110.000 |
+| **Presupuesto restante** |  | **\$6.810.000** |
